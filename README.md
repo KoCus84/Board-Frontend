@@ -1,4 +1,4 @@
-My name is Ko Cusveller, student at Codaisseur.
+My name is Ko Cusveller, Codaisseurm graduate.
 
 This app is a tool to help companies brainstorm new ideas for projects, and help visualize and organize their work. It is still very much WIP, but if you want to take a sneak peek, you can do so here:
 
